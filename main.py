@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import logging
 
 from config import TOKEN, eligible_users
